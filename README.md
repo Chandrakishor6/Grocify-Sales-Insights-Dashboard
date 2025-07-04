@@ -38,7 +38,7 @@ The **Grocify Sales Insights Dashboard** is a business intelligence solution dev
 ## Sample Dashboard View
 > Add your Power BI dashboard image in the repository's `/Images` folder and replace the file name below.
 
-![Dashboard Preview](Images/dashboard-snapshot.png)
+![Dashboard Preview](dashboard.png)
 
 ---
 
