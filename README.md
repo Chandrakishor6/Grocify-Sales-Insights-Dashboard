@@ -1,51 +1,77 @@
-# Grocify Sales Insights Dashboard 
+# Grocify Sales Dashboard – Power BI Project
+
+This project presents a comprehensive data analysis and interactive dashboard built using **Power BI** to explore sales performance data of a fictional retail company, *Grocify*. The goal is to showcase my data analysis skills, dashboard-building capabilities, and ability to draw business insights using real-world techniques.
+
+---
 
 ## Project Overview
-The **Grocify Sales Insights Dashboard** is a business intelligence solution developed using **SQL Server** and **Power BI**, designed for Grocify - an online grocery store. This project empowers business users with actionable sales insights, outlet-wise performance, and product category analytics, helping them make data-driven decisions to optimize operations and increase sales.
+
+As a data analyst aspirant, I designed this dashboard to analyze a dataset of **10,000+ records**, covering various retail metrics such as:
+
+- Total Sales
+- Average Sales per Item
+- Outlet Performance by Type, Location, and Size
+- Item Category Analysis
+- Fat Content-wise Sales
+- Year-wise Outlet Establishment Trends
 
 ---
 
-## Business Objectives
-- Analyze **Total Sales**, **Average Sales per Item**, and **Total Items Sold**.
-- Break down sales by **Outlet Location**, **Outlet Size**, **Fat Content**, and **Item Type**.
-- Track **Year-wise Sales Trends**, outlet establishment growth, and top-performing outlets.
-- Enable dynamic filtering and drill-down to analyze outlet-level and category-level sales performance.
-- Visualize key KPIs like **Avg Sales: $141**, **Total Sales: $1.20M**, **Total Items Sold: 8,523**, and **Average Rating: 4.0**.
-- Improve sales transparency across **Tier-wise outlets**, with Tier 3 outlets contributing **$472.13K** sales.
-- Automate reporting processes to **reduce manual reporting efforts by 70%**.
+## Tools & Technologies Used
+
+- **SQL** – Data extraction and querying  
+- **Power BI** – Data cleaning, transformation, modeling, and visualization  
+- **Power Query Editor** – Data shaping and cleaning  
+- **DAX (Data Analysis Expressions)** – For calculated measures and KPIs
 
 ---
 
-## Tech Stack
-- **SQL Server:** Data extraction, cleaning, and modeling
-- **Power BI Desktop:** Interactive dashboard development
-- **Power Query:** Data transformation and ETL automation
-- **DAX:** For KPI calculation and dynamic visualizations
-- **Data Modeling:** Defined relationships for cross-filtering
+## Dashboard Features
+
+- **Dynamic KPI Cards**: Total sales, number of items, average ratings, and average sales
+- **Interactive Filters**: By outlet location, size, and item type
+- **Visualizations**:
+  - Line chart showing outlet establishment trends over the years
+  - Donut charts for outlet size contribution to sales
+  - Bar charts for outlet location, fat content, and item category
+  - Data table summarizing key metrics by outlet type
 
 ---
 
-## Dashboard Highlights
-- **Sales Summary:** Tracks sales performance using dynamic KPI cards.
-- **Outlet Establishment Trends:** Year-over-year sales insights with 2017 peak at $205K.
-- **Sales by Category:** Outlet-wise, Item Type, and Fat Content analysis.
-- **Dynamic Filtering:** Filter data by Outlet Location, Size, and Item Type.
-- **Outlet-wise Sales Distribution:** Tier 3 outlets contribute the highest sales share.
-- **Year-wise Sales Trend:** Understand business growth trajectory.
+## Key Insights
+
+- Tier 3 outlets contributed the most to total sales.
+- Supermarket Type 1 outlets were top performers in terms of volume.
+- Medium-sized outlets contributed over 50% of total sales.
+- High-fat content items had higher sales compared to low-fat ones.
 
 ---
 
-## Sample Dashboard View
-> Add your Power BI dashboard image in the repository's `/Images` folder and replace the file name below.
+## Business Value
 
-![Dashboard Preview](dashboard.png)
+This dashboard empowers decision-makers to:
+
+- Understand product and outlet performance at a glance
+- Identify growth opportunities across regions and formats
+- Optimize inventory and product mix based on trends
+- Make data-driven strategic decisions
+
+---
+## Dashboard Screenshot
+
+![Dashboard Screenshot](dashboard.png)
 
 ---
 
-## Achievements
-- Automated data reporting, reducing reporting preparation time by **70%**.
-- Enhanced leadership visibility into outlet-level performance and product category contributions.
-- Improved sales monitoring across multiple outlet tiers, supporting strategic expansion planning.
-- Delivered real-time business insights, enhancing decision-making agility.
+## Project Files
 
----
+- [`Grocify_Sales_Dashboard.pbix`](Grocify.pbix) – Main Power BI dashboard file
+
+## Contact
+
+**Chandra Kishor Mandal**  
+Aspiring Data Analyst | Industrial & Production Engineering  
+📧 [chandrakishorrv@gmail.com]  
+📍 India  
+[LinkedIn](https://www.linkedin.com/in/chandrakishor06)
+
