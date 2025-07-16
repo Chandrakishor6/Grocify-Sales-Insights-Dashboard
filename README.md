@@ -1,77 +1,81 @@
-# Grocify Sales Dashboard – Power BI Project
+# 🛒 Grocify Sales Dashboard – Power BI Project
 
-This project presents a comprehensive data analysis and interactive dashboard built using **Power BI** to explore sales performance data of a fictional retail company, *Grocify*. The goal is to showcase my data analysis skills, dashboard-building capabilities, and ability to draw business insights using real-world techniques.
-
----
-
-## Project Overview
-
-As a data analyst aspirant, I designed this dashboard to analyze a dataset of **10,000+ records**, covering various retail metrics such as:
-
-- Total Sales
-- Average Sales per Item
-- Outlet Performance by Type, Location, and Size
-- Item Category Analysis
-- Fat Content-wise Sales
-- Year-wise Outlet Establishment Trends
+A comprehensive and interactive **Power BI** dashboard designed to analyze and visualize sales data for *Grocify*, a fictional retail company. This project demonstrates my ability to perform end-to-end data analysis, develop insightful dashboards, and extract actionable business intelligence.
 
 ---
 
-## Tools & Technologies Used
+## 📌 Project Overview
+
+This project involves analyzing a dataset of over **10,000 retail transactions**, focusing on key sales metrics such as:
+
+- 📊 Total and Average Sales
+- 🏬 Outlet Performance by Type, Location, and Size
+- 🧃 Item Category and Fat Content Analysis
+- 📈 Trends in Outlet Establishment Year-wise
+
+The dashboard is designed to be fully interactive, allowing business users to filter and explore data based on multiple dimensions.
+
+---
+
+## 🛠️ Tools & Technologies Used
 
 - **SQL** – Data extraction and querying  
-- **Power BI** – Data cleaning, transformation, modeling, and visualization  
-- **Power Query Editor** – Data shaping and cleaning  
-- **DAX (Data Analysis Expressions)** – For calculated measures and KPIs
+- **Power BI** – Dashboard creation and data modeling  
+- **Power Query Editor** – Data cleaning and transformation  
+- **DAX (Data Analysis Expressions)** – KPI calculations and business logic
 
 ---
 
-## Dashboard Features
+## 📋 Dashboard Features
 
-- **Dynamic KPI Cards**: Total sales, number of items, average ratings, and average sales
-- **Interactive Filters**: By outlet location, size, and item type
-- **Visualizations**:
-  - Line chart showing outlet establishment trends over the years
-  - Donut charts for outlet size contribution to sales
-  - Bar charts for outlet location, fat content, and item category
-  - Data table summarizing key metrics by outlet type
-
----
-
-## Key Insights
-
-- Tier 3 outlets contributed the most to total sales.
-- Supermarket Type 1 outlets were top performers in terms of volume.
-- Medium-sized outlets contributed over 50% of total sales.
-- High-fat content items had higher sales compared to low-fat ones.
+- ✅ **Dynamic KPI Cards**: Displaying total sales, item count, average sales per item, and ratings  
+- 🎛️ **Interactive Slicers**: Filter by outlet location, size, and item type  
+- 📉 **Visualizations**:
+  - Year-wise outlet establishment trends (Line Chart)
+  - Outlet size contribution to sales (Donut Chart)
+  - Sales by outlet location, fat content, and item category (Bar Charts)
+  - Summary of performance by outlet type (Data Table)
 
 ---
 
-## Business Value
+## 🔍 Key Insights
 
-This dashboard empowers decision-makers to:
-
-- Understand product and outlet performance at a glance
-- Identify growth opportunities across regions and formats
-- Optimize inventory and product mix based on trends
-- Make data-driven strategic decisions
+- 🏙️ **Tier 3** cities recorded the highest overall sales.
+- 🛒 **Supermarket Type 1** emerged as the leading outlet type by volume.
+- 📦 **Medium-sized outlets** accounted for over **50%** of total sales.
+- 🧈 Items with **high fat content** outperformed low-fat alternatives in sales.
 
 ---
-## Dashboard Screenshot
+
+## 💼 Business Value
+
+This dashboard offers decision-makers the ability to:
+
+- Analyze product and outlet performance with ease
+- Identify high-performing categories and underperforming segments
+- Align inventory strategy with sales trends
+- Drive regional marketing and expansion decisions based on data
+
+---
+
+## 🖼️ Dashboard Preview
 
 ![Dashboard Screenshot](dashboard.png)
 
 ---
 
-## Project Files
+## 📁 Project Files
 
-- [`Grocify_Sales_Dashboard.pbix`](Grocify.pbix) – Main Power BI dashboard file
+- [`Grocify_Sales_Dashboard.pbix`](Grocify.pbix) – Power BI dashboard file
 
-## Contact
+---
+
+## 📬 Contact
 
 **Chandra Kishor Mandal**  
-Aspiring Data Analyst | Industrial & Production Engineering  
-📧 [chandrakishorrv@gmail.com]  
+*Aspiring Data Analyst | B.Tech in Industrial & Production Engineering (NIT Jalandhar)*  
+📧 chandrakishorrv@gmail.com  
 📍 India  
-[LinkedIn](https://www.linkedin.com/in/chandrakishor06)
+🔗 [LinkedIn – @chandrakishor06](https://www.linkedin.com/in/chandrakishor06)
 
+---
