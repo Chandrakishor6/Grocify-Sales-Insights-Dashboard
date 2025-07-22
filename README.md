@@ -39,6 +39,8 @@ To better understand what's driving sales and uncover actionable insights to sup
 - 🏗️ **Total Sales by Outlet Establishment Year:** Evaluated how outlet establishment year had influenced the total sales.
 - 📍 **Sales by Outlet Size and Location:** Analyzed the corelation between sales and outlet size and its location.
 - 🧮 **All Metrics by Outlet Type:** Provided comprensive views of all key metrics (Total Sales, Average Sales, Number of Item Sold, and Average Rating) broken down by different outlet type.
+- 🏢💸 **Low Revenue from Large-Sized Outlets:**  
+   Despite higher investment expectations, large-sized outlets generated the **lowest revenue** among all outlet sizes—highlighting a potential mismatch between operational scale and sales performance.
 
 ---
 
