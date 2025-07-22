@@ -62,8 +62,8 @@ To better understand what's driving sales and uncover actionable insights to sup
   - Outlet size contribution to sales (Donut Chart)
   - Sales by outlet location, fat content, and item category (Bar Charts)
   - Summary of performance by outlet type (Data Table)
-
----
+  
+  ---
 
 ## 🔍 Key Insights
 
@@ -74,6 +74,14 @@ To better understand what's driving sales and uncover actionable insights to sup
 - 🗓️ **Establishment Year Analysis**: Outlets established in *2018* showed peak sales, indicating maturity and local brand trust.
 - 🛒 **Outlet Type Comparison**: *Supermarket Types 2 & 3* performed well across all metrics including sales and number of items sold.
 - ⭐ **Customer Ratings**: The business maintains a healthy *average rating of 4.0*, pointing to consistent customer satisfaction.
+  
+---
+
+## 🧮 SQL Scripts
+
+- [`data_cleaning.sql`](./sql/data_cleaning.sql) – Handling missing values, formatting, outliers, and typos
+- [`sales_analysis.sql`](./sql/sales_analysis.sql) – Sales analysis
+
 ---
 
 ## 💼 Business Value
