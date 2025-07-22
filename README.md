@@ -65,11 +65,13 @@ To better understand what's driving sales and uncover actionable insights to sup
 
 ## 🔍 Key Insights
 
-- 🏙️ **Tier 3** cities recorded the highest overall sales.
-- 🛒 **Supermarket Type 1** emerged as the leading outlet type by volume.
-- 📦 **Medium-sized outlets** accounted for over **50%** of total sales.
-- 🧈 Items with **high fat content** outperformed low-fat alternatives in sales.
-
+- 🥦 **Top-Selling Products**: *Fruits & Vegetables* emerged as the highest revenue-generating category.
+- 🥛 **Customer Preference**: *Low-fat products* outperformed regular-fat items in terms of sales, indicating a preference for healthier options.
+- 🏬 **Outlet Size Impact**: *Medium-sized outlets* generated the highest total revenue, showing operational efficiency at this scale.
+- 🌍 **Location Performance**: Outlets in *Tier 3 cities* led in revenue generation, suggesting strong rural and semi-urban market potential.
+- 🗓️ **Establishment Year Analysis**: Outlets established in *2018* showed peak sales, indicating maturity and local brand trust.
+- 🛒 **Outlet Type Comparison**: *Supermarket Types 2 & 3* performed well across all metrics including sales and number of items sold.
+- ⭐ **Customer Ratings**: The business maintains a healthy *average rating of 4.0*, pointing to consistent customer satisfaction.
 ---
 
 ## 💼 Business Value
