@@ -33,12 +33,12 @@ After carefully analyzing the business requirements and objectives shared by sta
 
 To better understand what's driving sales and uncover actionable insights to support strategic decision-making, I analyzed the data from multiple angles. The goal was to see how fat content, item type, and outlet characteristis (establisment year, location and size ) affects the KPIs. Following are the area of analysis:
 
-1. **Sales by Fat Content:** Analyzed the impact of fat content on total sales. Also assessed how other KPIs vary with fat content
-2. **sales by Item Type:** Identified the performance of different item type in terms of total sales and other KPIs
-3. **Fat Content by Outlet for total sales:** Compared the total sales accross different outlets, segmented by fat content. Also assessed the affect of different outlet on other KPIs
-4. **Total Sales by Outlet Establishment Year:** Evaluated how outlet establishment year had influenced the total sales.
-5. **Sales by Outlet Size and Location:** Analyzed the corelation between sales and outlet size and its location.
-6. **All Metrics by Outlet Type:** Provided comprensive views of all key metrics (Total Sales, Average Sales, Number of Item Sold, and Average Rating) broken down by different outlet type.
+- 🥛 **Sales by Fat Content:** Analyzed the impact of fat content on total sales. Also assessed how other KPIs vary with fat content
+- 🍱 **sales by Item Type:** Identified the performance of different item type in terms of total sales and other KPIs
+- 🏪 **Fat Content by Outlet for total sales:** Compared the total sales accross different outlets, segmented by fat content. Also assessed the affect of different outlet on other KPIs
+- 🏗️ **Total Sales by Outlet Establishment Year:** Evaluated how outlet establishment year had influenced the total sales.
+- 📍 **Sales by Outlet Size and Location:** Analyzed the corelation between sales and outlet size and its location.
+- 🧮 **All Metrics by Outlet Type:** Provided comprensive views of all key metrics (Total Sales, Average Sales, Number of Item Sold, and Average Rating) broken down by different outlet type.
 
 ---
 
