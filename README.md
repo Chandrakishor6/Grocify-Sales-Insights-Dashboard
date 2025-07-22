@@ -1,28 +1,53 @@
 # 🛒 Grocify Sales Dashboard – Power BI Project
 
-A comprehensive and interactive **Power BI** dashboard designed to analyze and visualize sales data for *Grocify*, a fictional retail company. This project demonstrates my ability to perform end-to-end data analysis, develop insightful dashboards, and extract actionable business intelligence.
+This is an end-to-end data analytics project presents a comprehensive analytics report for **Grocify**, a leading quick-commerce grocery delivery platform. The core objective was to evaluate the company's sales performance, customer satisfaction, inventory attributes, and outlet-based segmentation using SQL and Power BI.
+The analysis focusses on identifying actionable KPIs and uncovering optimization opportunities across outlets, products, and customer interactions to guide future business strategy.
 
 ---
 
-## 📌 Project Overview
+## 🎯 Business Objectives
 
-This project involves analyzing a dataset of over **10,000 retail transactions**, focusing on key sales metrics such as:
+Grocify stakeholders outlined the following strategic goals:
 
-- 📊 Total and Average Sales
-- 🏬 Outlet Performance by Type, Location, and Size
-- 🧃 Item Category and Fat Content Analysis
-- 📈 Trends in Outlet Establishment Year-wise
+- Understand how **product characteristics** like item fat content, and item type influence sales.
+- Evaluate **customer satisfaction** using customer ratings
+- Compare performance across different **outlet characteristics** such as location, size, and establishment year
+- Support data-driven **inventory and marketing** decisions
 
-The dashboard is designed to be fully interactive, allowing business users to filter and explore data based on multiple dimensions.
+---
+
+## 🧾 KPIs
+
+After carefully analyzing the business requirements and objectives shared by stakeholders, I translated those needs into measurable KPIs that would provide clear insights and support decision-making.
+
+| KPI | Description |
+|-----|-------------|
+| **Total Sales** | Measures total revenue generated from item sales across all outlets |
+| **Average Sales** | Captures mean sales value to identify purchasing patterns |
+| **Number of Items** | Tracks volume sold, helpful for inventory and demand planning |
+| **Average Customer Rating** | Serves as a proxy for customer satisfaction and product quality |
+
+---
+
+## 📈 Analysis Summary
+
+To better understand what's driving sales and uncover actionable insights to support strategic decision-making, I analyzed the data from multiple angles. The goal was to see how fat content, item type, and outlet characteristis (establisment year, location and size ) affects the KPIs. Following are the area of analysis:
+
+1. **Sales by Fat Content:** Analyzed the impact of fat content on total sales. Also assessed how other KPIs vary with fat content
+2. **sales by Item Type:** Identified the performance of different item type in terms of total sales and other KPIs
+3. **Fat Content by Outlet for total sales:** Compared the total sales accross different outlets, segmented by fat content. Also assessed the affect of different outlet on other KPIs
+4. **Total Sales by Outlet Establishment Year:** Evaluated how outlet establishment year had influenced the total sales.
+5. **Sales by Outlet Size and Location:** Analyzed the corelation between sales and outlet size and its location.
+6. **All Metrics by Outlet Type:** Provided comprensive views of all key metrics (Total Sales, Average Sales, Number of Item Sold, and Average Rating) broken down by different outlet type.
 
 ---
 
 ## 🛠️ Tools & Technologies Used
 
+- **Excel** – Quick data validation and exploration 
 - **SQL** – Data extraction and querying  
-- **Power BI** – Dashboard creation and data modeling  
-- **Power Query Editor** – Data cleaning and transformation  
-- **DAX (Data Analysis Expressions)** – KPI calculations and business logic
+- **Power BI** – Dashboard creation and  interactive reports 
+- **GitHub** –Project documentation
 
 ---
 
